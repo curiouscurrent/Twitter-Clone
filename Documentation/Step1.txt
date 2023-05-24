@@ -1,0 +1,11 @@
+Step 1 : Download Docker from https://www.docker.com/
+Note : If you encounter any error while installation download
+this file https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi
+
+Step 2: Install appwrite using docker https://appwrite.io/docs/self-hosting
+
+Step 3: Download flutter 
+https://docs.flutter.dev/get-started/install/windows
+
+Step 4: create a flutter project
+Command : flutter create projectname 
