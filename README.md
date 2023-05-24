@@ -1,1 +1,1 @@
-# Twitter-Clone
+# Refer the documentation Folder to view the complete details of how I built this Twitter Clone.
